@@ -1,0 +1,7 @@
+{
+  "name": "PulseTrack",
+  "description": "Standalone native GPS outdoor activity tracker for running, walking, cycling, and hiking with real-time route mapping, background tracking, and fitness statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
