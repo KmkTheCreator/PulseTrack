@@ -1,4 +1,4 @@
-🔥 PulseTrack 🔥
+🔥 ***PulseTrack*** 🔥
 
 A native Android GPS fitness tracker for tracking your outdoor activities. And ITS COMPLETELY FREE.
 
